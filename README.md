@@ -1,1 +1,1 @@
-![Snake animation](https://github.com/EduardoDrozda/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/EduardoDrozda/EduardoDrozda/blob/output/github-contribution-grid-snake.svg)
