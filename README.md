@@ -1,4 +1,5 @@
-## Hi everyone, my name is Eduardo Drozda
+## Hi folks, my name is Eduardo Drozda.
+
 
 ### This is my repository.
 
