@@ -10,6 +10,8 @@
 
 <br/>
 
+![](https://komarev.com/ghpvc/?username=eduardodrozda&style=for-the-badge)
+
 <div>
   <a href="https://github.com/EduardoDrozda">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoDrozda&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
