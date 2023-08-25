@@ -8,6 +8,12 @@
 - Javascript
 - Typescript
 - PHP
+- Node JS
+- Express
+- Nest JS
+- Laravel
+- Angular
+- React Native
 
 <br/>
 
