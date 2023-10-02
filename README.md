@@ -3,8 +3,14 @@
 
 <h1 align="center"><b>Hi , I'm Eduardo Drozda </b></h1>
 
-<br>
+<br />
+<br />
 
+<p align="center">
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=53289C&center=true&vCenter=true&width=500&lines=Software+engineer;Javascript+Specialist" alt="Typing SVG" /></a>
+</p>
+
+<br />
 	
 ## About me
 
@@ -18,12 +24,11 @@ One pivotal achievement is the Dynamic Form Generator, spotlighting my architect
 
 Proficient in Frontend, Backend, and Mobile Development, my passion for growth keeps me aligned with market trends. My skills shine in Angular, Node.js (Express/Nest.js), React, and React Native.
 
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## Skills
-<br>
 
 <p align="center">
 
@@ -31,8 +36,7 @@ Proficient in Frontend, Backend, and Mobile Development, my passion for growth k
       
       ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
       ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-  
-  <br>   
+
   
   - **Back-end Development**:
   
@@ -40,7 +44,7 @@ Proficient in Frontend, Backend, and Mobile Development, my passion for growth k
       ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
       ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
   
-  <br />
+
       
   - **Front-End Development**:
   
@@ -48,7 +52,7 @@ Proficient in Frontend, Backend, and Mobile Development, my passion for growth k
      ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
      ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   
-  <br>
+
   
   - **Cloud Hosting**:
   
@@ -56,26 +60,18 @@ Proficient in Frontend, Backend, and Mobile Development, my passion for growth k
       ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
       ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
       
-  <br>
+
   
   - **Softwares and Tools**:
   
       ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
       ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  
-  <br>
-
 </p>
 
 <br>
-<br>
-
------
-
-<br>
-
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
 <br>
 
 <div align="center">
@@ -87,14 +83,6 @@ Proficient in Frontend, Backend, and Mobile Development, my passion for growth k
   
   ![Snake animation](https://github.com/EduardoDrozda/EduardoDrozda/blob/output/github-contribution-grid-snake.svg)
 </div>
-<br>
-<br>
-<br>
-
------
-
-<br>
-<br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
