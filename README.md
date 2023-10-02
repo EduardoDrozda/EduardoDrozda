@@ -89,7 +89,7 @@ Proficient in Frontend, Backend, and Mobile Development, my passion for growth k
 <div style="display: inline_block;" align='left'><br>
 
 <p>
-  <a href="[https://linkedin.com/in/0xabdulkhalid](https://www.linkedin.com/in/eduardo-drozda-511694100/)" target="_blank">
+  <a href="https://www.linkedin.com/in/eduardo-drozda-511694100" target="_blank">
   <img src="https://img.shields.io/badge/linkedin:  eduardodrozda-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </p>
 
