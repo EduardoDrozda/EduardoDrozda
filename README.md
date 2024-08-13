@@ -86,12 +86,7 @@ Proficient in Frontend, Backend, and Mobile Development, my passion for growth k
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoDrozda&show_icons=true&theme=transparent&title_color=9700cc&text_color=9700cc"/>
   <div>
   
-  ![Snake animation](https://github.com/EduardoDrozda/EduardoDrozda/blob/output/github-contribution-grid-snake.svg)
 </div>
-
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div style="display: inline_block;" align='left'><br>
 
 <p>
   <a href="https://www.linkedin.com/in/eduardo-drozda-511694100" target="_blank">
